@@ -1,16 +1,13 @@
 # flutter_bloc_app
 
-A new Flutter project.
+This Project is created using Bloc Pattern. In this API integration has been done using http library. 
 
-## Getting Started
+Below Screenshots shows how it looks when you run it.
 
-This project is a starting point for a Flutter application.
+1. Screen with list of items fetched from API
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230818_175640](https://github.com/Nidzy/Flutter_Bloc_App/assets/17490608/ba52ae71-82b5-4482-ad51-d8fb78eb07e1)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Item details screen when listitem gets clicked. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230818_175701](https://github.com/Nidzy/Flutter_Bloc_App/assets/17490608/b73013b0-f885-4079-85b4-048ef8570ea9)
